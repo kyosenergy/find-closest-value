@@ -21,11 +21,12 @@ class FindClosestValue
             throw new \InvalidArgumentException('Provided array cannot be empty');
         }
 
-        sort($arr);
-
+        // Exact match
         if (array_search($target, $arr) !== false) {
             return $target;
         }
+
+        sort($arr);
 
         // Lower boundary
         if ($target <= $arr[0]) {
