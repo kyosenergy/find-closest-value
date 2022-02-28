@@ -1,7 +1,9 @@
+![banner](.github/banner.png)
+
 ## FindClosestValue
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/kyos/find-closest-value.svg?style=flat-square)](https://packagist.org/packages/kyos/find-closest-value)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/kyosenergy/find-closest-value/run-tests?label=tests)](https://github.com/kyosenergy/find-closest-value/actions?query=workflow%3ATests+branch%3Amaster)
+[![GitHub Tests Action Status](https://github.com/kyosenergy/find-closest-value/actions/workflows/run-tests.yml/badge.svg)](https://github.com/kyosenergy/find-closest-value/actions/workflows/run-tests.yml)
 [![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/kyosenergy/find-closest-value/Check%20&%20fix%20styling?label=code%20style)](https://github.com/kyosenergy/find-closest-value/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/kyos/find-closest-value.svg?style=flat-square)](https://packagist.org/packages/kyos/find-closest-value)
 
